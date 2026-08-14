@@ -2,9 +2,9 @@
 
 # Awesome Shopware with stars
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,404 | 🐛 1,309 | 🌐 PHP | 📅 2026-08-13 ecosystem.
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,404 | 🐛 1,306 | 🌐 PHP | 📅 2026-08-13 ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,648 | 🐛 81 | 📅 2026-07-13
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,648 | 🐛 82 | 📅 2026-07-13
 
 ## Contents
 
@@ -78,7 +78,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ## IDE / PhpStorm Plugins
 
-* [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) ⭐ 930 | 🐛 379 | 🌐 Java | 📅 2026-08-11 - PhpStorm Symfony Plugin.
+* [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) ⭐ 930 | 🐛 380 | 🌐 Java | 📅 2026-08-13 - PhpStorm Symfony Plugin.
 * [PHP Annotations](https://github.com/Haehnchen/idea-php-annotation-plugin) ⭐ 257 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-12 - PhpStorm Annotations plugin.
 * [PHP Toolbox](https://github.com/Haehnchen/idea-php-toolbox) ⭐ 162 | 🐛 56 | 🌐 Java | 📅 2026-07-18 - PHP Toolbox includes some Shopware configurations.
 * [Shopware 6 Toolbox](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ⭐ 65 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-11 - PhpStorm Shopware 6 plugin.
@@ -111,7 +111,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 * [360° Product viewer](https://github.com/shopwareLabs/SwagThreeSixtyViewer) ⭐ 24 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-05 - 360° Product viewer for detail pages.
 * [HybridAuth](https://github.com/portrino/shopware-hybrid-auth) ⚠️ Archived - Shopware plugin for social login (Amazon, Google, Facebook, LinkedIn).
 * [Variant Switch](https://github.com/FriendsOfShopware/FroshVariantSwitch) ⚠️ Archived - Update variants in basket and checkout views.
-* [Browser Language](https://github.com/shopwareLabs/SwagBrowserLanguage) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2017-08-24 - Language detection for multi shop setups.
+* [Browser Language](https://github.com/shopwareLabs/SwagBrowserLanguage) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2017-08-24 - Language detection for multi shop setups.
 * [Data Table Layout](https://github.com/FriendsOfShopware/FroshDataTableLayout) ⚠️ Archived - Adds data table to the available product layouts of categories/search/manufacturer
 * [Customer-specific prices](https://github.com/shopwareLabs/SwagUserPrice) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2023-07-03 - Customer-specific prices.
 * [Optimus.io Optimizer](https://github.com/FriendsOfShopware/FroshOptimusMediaOptimizer) ⚠️ Archived - Optimus.io image optimizer.
@@ -177,7 +177,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ## Media Adapter
 
-* [S3](https://github.com/shopwareLabs/SwagMediaS3) ⭐ 21 | 🐛 2 | 🌐 PHP | 📅 2018-10-15 - Amazon S3 Media adapter.
+* [S3](https://github.com/shopwareLabs/SwagMediaS3) ⭐ 20 | 🐛 2 | 🌐 PHP | 📅 2018-10-15 - Amazon S3 Media adapter.
 * [SFTP](https://github.com/shopwareLabs/SwagMediaSftp) ⭐ 11 | 🐛 1 | 🌐 PHP | 📅 2024-03-05 - SFTP adapter.
 * [BunnyCDN](https://github.com/FriendsOfShopware/FroshBunnycdnMediaStorage) ⚠️ Archived - BunnyCDN adapter.
 * [GCP](https://github.com/shopwareLabs/SwagMediaGCP) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2018-02-08 - Google Cloud Storage adapter.
@@ -189,4 +189,4 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
