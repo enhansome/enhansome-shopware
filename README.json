@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57282795,
             "language": "PHP",
             "last_commit": "2023-08-29T14:41:55Z",
             "owner": "shopware5",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47250256,
             "language": "PHP",
             "last_commit": "2024-01-05T12:41:05Z",
             "owner": "shopware5",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10815834,
             "language": "PHP",
             "last_commit": "2023-09-21T06:42:15Z",
             "owner": "shopware5",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79573581,
             "language": "PHP",
             "last_commit": "2021-11-13T19:31:52Z",
             "owner": "webmatch",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 164628527,
             "language": "PHP",
             "last_commit": "2023-02-25T14:46:09Z",
             "owner": "FriendsOfShopware",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 101329096,
             "language": "Smarty",
             "last_commit": "2023-02-25T14:44:07Z",
             "owner": "FriendsOfShopware",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 81250595,
             "language": "PHP",
             "last_commit": "2017-12-16T16:34:26Z",
             "owner": "shyim",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87194436,
             "language": "JavaScript",
             "last_commit": "2017-12-16T17:46:48Z",
             "owner": "webmatch",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 99806397,
             "language": "JavaScript",
             "last_commit": "2019-04-18T14:52:54Z",
             "owner": "FriendsOfShopware",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 191908904,
             "language": "PHP",
             "last_commit": "2019-06-14T08:53:04Z",
             "owner": "buddhaCode",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99780684,
             "language": "PHP",
             "last_commit": "2020-05-08T14:08:31Z",
             "owner": "shopware5",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72730086,
             "language": "PHP",
             "last_commit": "2017-09-01T13:22:27Z",
             "owner": "KSK-Agentur",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108673904,
             "language": "PHP",
             "last_commit": "2018-09-25T20:14:32Z",
             "owner": "uehler",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 187995866,
             "language": "PHP",
             "last_commit": "2019-05-22T08:30:56Z",
             "owner": "buddhaCode",
@@ -206,24 +220,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 187847654,
             "language": "PHP",
             "last_commit": "2019-05-27T07:02:02Z",
             "owner": "buddhaCode",
             "repo": "BucoOrderDocumentsApi",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Mittwald Security Plugin",
-          "description": "Adds some security tools.",
-          "children": []
         }
       ],
       "title": "Backend Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -232,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20680680,
             "language": "PHP",
             "last_commit": "2026-06-12T07:03:39Z",
             "owner": "shopware5",
@@ -246,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 65240860,
             "language": "JavaScript",
             "last_commit": "2024-08-06T09:55:11Z",
             "owner": "pickware",
@@ -257,7 +268,7 @@
       "title": "Command Line"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -266,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11449775,
             "language": null,
             "last_commit": "2019-02-19T10:43:26Z",
             "owner": "bcremer",
@@ -280,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92622634,
             "language": null,
             "last_commit": "2017-05-27T20:42:20Z",
             "owner": "janbuecker",
@@ -291,7 +304,7 @@
       "title": "Configuration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82204481,
             "language": "JavaScript",
             "last_commit": "2023-02-28T12:26:35Z",
             "owner": "apertureless",
@@ -314,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11275138,
             "language": "PHP",
             "last_commit": "2021-07-20T11:59:39Z",
             "owner": "plentymarkets",
@@ -328,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26867190,
             "language": "PHP",
             "last_commit": "2019-04-08T06:10:26Z",
             "owner": "shopwareArchive",
@@ -342,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8675640,
             "language": "Python",
             "last_commit": "2021-08-25T16:04:59Z",
             "owner": "micronax",
@@ -356,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61577340,
             "language": "C#",
             "last_commit": "2021-08-25T11:26:45Z",
             "owner": "shopdoktor",
@@ -370,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147497159,
             "language": "PHP",
             "last_commit": "2025-01-28T16:21:57Z",
             "owner": "neta-io",
@@ -381,7 +400,7 @@
       "title": "Connectors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -390,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47857610,
             "language": "PHP",
             "last_commit": "2023-02-25T14:41:04Z",
             "owner": "FriendsOfShopware",
@@ -404,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 93959555,
             "language": "PHP",
             "last_commit": "2024-03-03T12:04:49Z",
             "owner": "FriendsOfShopware",
@@ -418,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48697206,
             "language": "PHP",
             "last_commit": "2018-11-13T13:08:25Z",
             "owner": "simkli",
@@ -432,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57116426,
             "language": "PHP",
             "last_commit": "2023-02-25T14:41:53Z",
             "owner": "FriendsOfShopware",
@@ -446,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 38070764,
             "language": "PHP",
             "last_commit": "2017-12-06T08:15:42Z",
             "owner": "shyim",
@@ -460,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100607613,
             "language": "PHP",
             "last_commit": "2019-03-25T20:59:26Z",
             "owner": "shyim",
@@ -474,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139674025,
             "language": "PHP",
             "last_commit": "2019-09-19T15:24:46Z",
             "owner": "mschop",
@@ -488,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 130248080,
             "language": "PHP",
             "last_commit": "2023-02-25T14:58:52Z",
             "owner": "FriendsOfShopware",
@@ -502,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 165628758,
             "language": "PHP",
             "last_commit": "2023-02-25T14:43:59Z",
             "owner": "FriendsOfShopware",
@@ -516,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130207678,
             "language": "JavaScript",
             "last_commit": "2021-11-13T23:16:44Z",
             "owner": "smittreiter",
@@ -530,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82930569,
             "language": "PHP",
             "last_commit": "2017-03-08T13:58:05Z",
             "owner": "webmatch",
@@ -541,7 +571,7 @@
       "title": "Development Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -550,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9279386,
             "language": "Java",
             "last_commit": "2026-08-18T19:16:50Z",
             "owner": "Haehnchen",
@@ -564,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13011199,
             "language": "Kotlin",
             "last_commit": "2026-08-12T16:37:07Z",
             "owner": "Haehnchen",
@@ -578,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28562615,
             "language": "Java",
             "last_commit": "2026-07-18T08:21:03Z",
             "owner": "Haehnchen",
@@ -592,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 408522984,
             "language": "Kotlin",
             "last_commit": "2026-08-11T05:37:42Z",
             "owner": "shopware",
@@ -606,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17259624,
             "language": "Java",
             "last_commit": "2026-07-22T15:21:54Z",
             "owner": "Haehnchen",
@@ -617,7 +652,7 @@
       "title": "IDE / PhpStorm Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -626,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85554806,
             "language": "PHP",
             "last_commit": "2026-07-24T03:24:33Z",
             "owner": "1drop",
@@ -640,24 +676,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103135174,
             "language": "PHP",
             "last_commit": "2018-09-27T12:11:12Z",
             "owner": "shopware-blog",
             "repo": "shopware-bugsnag",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Rollbar",
-          "description": "Rollbar Error reporting.",
-          "children": []
         }
       ],
       "title": "Error Reporting"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -666,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 106379391,
             "language": "PHP",
             "last_commit": "2017-12-07T10:14:14Z",
             "owner": "shopwareArchive",
@@ -680,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80040613,
             "language": "PHP",
             "last_commit": "2017-01-26T17:56:33Z",
             "owner": "bcremer",
@@ -694,24 +727,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156216348,
             "language": "PHP",
             "last_commit": "2018-11-08T13:22:12Z",
             "owner": "rofthedeep",
             "repo": "SubscriberTest",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Model Test",
-          "description": "Custom Model (Shopware 5.2).",
-          "children": []
         }
       ],
       "title": "Plugin Examples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -720,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74499022,
             "language": "JavaScript",
             "last_commit": "2016-12-15T09:52:34Z",
             "owner": "screeny05",
@@ -734,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59663860,
             "language": "CSS",
             "last_commit": "2017-04-12T16:00:47Z",
             "owner": "screeny05",
@@ -748,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91777674,
             "language": "Smarty",
             "last_commit": "2017-06-14T15:11:23Z",
             "owner": "screeny05",
@@ -762,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119388921,
             "language": "TypeScript",
             "last_commit": "2018-09-10T09:08:17Z",
             "owner": "screeny05",
@@ -773,7 +805,7 @@
       "title": "Frontend Development Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -782,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 102772378,
             "language": "PHP",
             "last_commit": "2023-02-25T14:40:19Z",
             "owner": "FriendsOfShopware",
@@ -796,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 144751749,
             "language": "PHP",
             "last_commit": "2020-06-22T19:09:34Z",
             "owner": "FriendsOfShopware",
@@ -810,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93168747,
             "language": "JavaScript",
             "last_commit": "2017-07-05T09:12:24Z",
             "owner": "shopware5",
@@ -824,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 110731474,
             "language": "PHP",
             "last_commit": "2019-02-21T20:49:15Z",
             "owner": "portrino",
@@ -838,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 130248125,
             "language": "PHP",
             "last_commit": "2023-02-25T14:43:48Z",
             "owner": "FriendsOfShopware",
@@ -852,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47120869,
             "language": "PHP",
             "last_commit": "2017-08-24T10:10:11Z",
             "owner": "shopware5",
@@ -866,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 166746655,
             "language": "JavaScript",
             "last_commit": "2020-08-23T16:58:00Z",
             "owner": "FriendsOfShopware",
@@ -880,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76356417,
             "language": "PHP",
             "last_commit": "2023-07-03T14:55:11Z",
             "owner": "shopware5",
@@ -894,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 102740738,
             "language": "PHP",
             "last_commit": "2019-03-11T18:12:08Z",
             "owner": "FriendsOfShopware",
@@ -908,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47120596,
             "language": "PHP",
             "last_commit": "2018-09-18T15:12:40Z",
             "owner": "shopware5",
@@ -922,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118034636,
             "language": "PHP",
             "last_commit": "2019-02-11T18:51:59Z",
             "owner": "kielcoding",
@@ -936,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167740124,
             "language": "PHP",
             "last_commit": "2019-01-27T16:03:16Z",
             "owner": "runelaenen",
@@ -950,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 815082748,
             "language": "Twig",
             "last_commit": "2024-07-08T13:16:01Z",
             "owner": "akshaynikhare",
@@ -964,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127130668,
             "language": "Smarty",
             "last_commit": "2018-04-16T05:26:48Z",
             "owner": "mnaczenski",
@@ -978,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118248589,
             "language": "Smarty",
             "last_commit": "2018-01-28T14:08:42Z",
             "owner": "marcmanusch",
@@ -992,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97816122,
             "language": "Smarty",
             "last_commit": "2020-02-12T10:27:15Z",
             "owner": "HEPTACOM",
@@ -1006,6 +1054,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 177636140,
             "language": "PHP",
             "last_commit": "2019-05-17T10:31:19Z",
             "owner": "buddhaCode",
@@ -1020,6 +1069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 815079614,
             "language": "Twig",
             "last_commit": "2024-07-08T13:15:50Z",
             "owner": "akshaynikhare",
@@ -1034,6 +1084,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75846095,
             "language": "CSS",
             "last_commit": "2018-01-25T09:07:01Z",
             "owner": "KSK-Agentur",
@@ -1048,6 +1099,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 181882357,
             "language": "PHP",
             "last_commit": "2019-05-17T12:10:45Z",
             "owner": "buddhaCode",
@@ -1062,36 +1114,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 181882404,
             "language": "PHP",
             "last_commit": "2019-05-17T11:52:43Z",
             "owner": "buddhaCode",
             "repo": "BucoStaticXhrHttpCache",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Disqus",
-          "description": "Replaces blog comments with Disqus.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Thumbnail Sizes in Frontend",
-          "description": "Makes thumbnail sizes in frontend available.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Article Accessory Direct Buy",
-          "description": "Buy article accessory from detail pages.",
-          "children": []
         }
       ],
       "title": "Frontend Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1100,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 81538178,
             "language": "Shell",
             "last_commit": "2020-02-19T10:18:25Z",
             "owner": "shopwareArchive",
@@ -1114,24 +1150,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30412538,
             "language": "PHP",
             "last_commit": "2020-06-09T14:43:09Z",
             "owner": "shopware5",
             "repo": "shopware-vagrant",
             "stars": 56
           }
-        },
-        {
-          "node_type": "item",
-          "title": "netshops/docker-setup",
-          "description": "Another docker setup made for web applications (Shopware configs included).",
-          "children": []
         }
       ],
       "title": "Local Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1140,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86825255,
             "language": "PHP",
             "last_commit": "2025-12-02T11:47:07Z",
             "owner": "mollie",
@@ -1154,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578099637,
             "language": "PHP",
             "last_commit": "2025-09-15T11:26:35Z",
             "owner": "steampixel",
@@ -1168,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58461391,
             "language": "PHP",
             "last_commit": "2026-05-29T12:35:56Z",
             "owner": "PAYONE-GmbH",
@@ -1182,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26865187,
             "language": "PHP",
             "last_commit": "2023-07-13T06:58:36Z",
             "owner": "shopware5",
@@ -1196,6 +1231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6121542,
             "language": "PHP",
             "last_commit": "2017-05-23T09:09:22Z",
             "owner": "paymill",
@@ -1210,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42584294,
             "language": "PHP",
             "last_commit": "2018-12-02T19:25:51Z",
             "owner": "shopware5",
@@ -1224,6 +1261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83941706,
             "language": "PHP",
             "last_commit": "2017-03-24T05:39:53Z",
             "owner": "pthreat",
@@ -1238,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 92167356,
             "language": "PHP",
             "last_commit": "2025-08-05T08:59:59Z",
             "owner": "wallee-payment",
@@ -1252,6 +1291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57139866,
             "language": "PHP",
             "last_commit": "2022-03-14T14:21:33Z",
             "owner": "hobex",
@@ -1266,6 +1306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35486091,
             "language": "PHP",
             "last_commit": "2023-09-11T07:07:04Z",
             "owner": "ratepay",
@@ -1280,6 +1321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99130312,
             "language": "PHP",
             "last_commit": "2019-08-01T07:47:44Z",
             "owner": "unzer-sp",
@@ -1294,6 +1336,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 97511736,
             "language": "PHP",
             "last_commit": "2021-05-12T08:11:59Z",
             "owner": "g2a-official",
@@ -1308,24 +1351,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47121187,
             "language": "PHP",
             "last_commit": "2018-09-04T07:08:16Z",
             "owner": "shopware5",
             "repo": "SwagPaymentIpayment",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Stripe",
-          "description": "Stripe integration.",
-          "children": []
         }
       ],
       "title": "Payment Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1334,6 +1372,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 105308553,
             "language": "Smarty",
             "last_commit": "2023-08-15T15:06:18Z",
             "owner": "conexco",
@@ -1348,24 +1387,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112110787,
             "language": "PHP",
             "last_commit": "2019-09-25T12:32:51Z",
             "owner": "Blur-Creative",
             "repo": "theme-views",
             "stars": 8
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Flat Theme",
-          "description": "Responsive theme in flat look.",
-          "children": []
         }
       ],
       "title": "Themes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1374,6 +1408,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80517244,
             "language": "PHP",
             "last_commit": "2023-12-15T22:31:53Z",
             "owner": "webmatch",
@@ -1388,6 +1423,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29917919,
             "language": "PHP",
             "last_commit": "2023-08-29T14:56:20Z",
             "owner": "shopware5",
@@ -1402,6 +1438,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34439321,
             "language": "PHP",
             "last_commit": "2025-01-17T07:57:59Z",
             "owner": "Nosto",
@@ -1416,6 +1453,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60759346,
             "language": "PHP",
             "last_commit": "2017-12-13T16:17:41Z",
             "owner": "arvatis",
@@ -1430,6 +1468,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27380354,
             "language": "PHP",
             "last_commit": "2017-01-08T17:10:03Z",
             "owner": "stetic",
@@ -1444,6 +1483,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 137380633,
             "language": "Smarty",
             "last_commit": "2020-08-29T18:16:16Z",
             "owner": "tinect",
@@ -1458,6 +1498,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60759189,
             "language": "Smarty",
             "last_commit": "2017-07-19T12:28:08Z",
             "owner": "arvatis",
@@ -1472,6 +1513,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120998285,
             "language": "PHP",
             "last_commit": "2018-02-17T19:49:54Z",
             "owner": "marcmanusch",
@@ -1486,24 +1528,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119212426,
             "language": "PHP",
             "last_commit": "2018-01-28T13:05:36Z",
             "owner": "marcmanusch",
             "repo": "PaulBingTracking",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Tawk.to",
-          "description": "Tawk.to Chat integration.",
-          "children": []
         }
       ],
       "title": "Tracking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1512,6 +1549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42433261,
             "language": "PHP",
             "last_commit": "2018-10-15T11:47:18Z",
             "owner": "shopware5",
@@ -1526,6 +1564,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42433525,
             "language": "PHP",
             "last_commit": "2024-03-05T07:45:13Z",
             "owner": "shopware5",
@@ -1540,6 +1579,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 150750517,
             "language": "PHP",
             "last_commit": "2023-02-25T14:41:41Z",
             "owner": "FriendsOfShopware",
@@ -1554,6 +1594,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73896167,
             "language": "PHP",
             "last_commit": "2018-02-08T14:53:34Z",
             "owner": "shopware5",
@@ -1568,6 +1609,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73815841,
             "language": "PHP",
             "last_commit": "2018-08-22T13:10:14Z",
             "owner": "shopware5",
@@ -1577,16 +1619,12 @@
         }
       ],
       "title": "Media Adapter"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:56:23.533Z",
+    "last_updated": "2026-08-19T12:51:35.098Z",
     "original_repository": "shyim/awesome-shopware",
+    "original_repository_id": 113993665,
     "original_repository_sha": "dfc1f4eb03f741c904f33e5a5435bdfcb128d5ef",
     "enhanced_repository": "enhansome/enhansome-shopware",
     "enhanced_repository_description": null,
