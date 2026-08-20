@@ -582,7 +582,7 @@
             "archived": false,
             "id": 9279386,
             "language": "Java",
-            "last_commit": "2026-08-18T19:16:50Z",
+            "last_commit": "2026-08-19T15:32:27Z",
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
             "stars": 930
@@ -1622,7 +1622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:35.098Z",
+    "last_updated": "2026-08-20T01:55:19.839Z",
     "original_repository": "shyim/awesome-shopware",
     "original_repository_id": 113993665,
     "original_repository_sha": "dfc1f4eb03f741c904f33e5a5435bdfcb128d5ef",
