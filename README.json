@@ -582,7 +582,7 @@
             "archived": false,
             "id": 9279386,
             "language": "Java",
-            "last_commit": "2026-08-19T15:32:27Z",
+            "last_commit": "2026-08-21T15:41:13Z",
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
             "stars": 930
@@ -627,7 +627,7 @@
             "archived": false,
             "id": 408522984,
             "language": "Kotlin",
-            "last_commit": "2026-08-11T05:37:42Z",
+            "last_commit": "2026-08-21T05:44:50Z",
             "owner": "shopware",
             "repo": "shopware6-phpstorm-plugin",
             "stars": 65
@@ -1622,7 +1622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:01:07.159Z",
+    "last_updated": "2026-08-22T01:54:09.489Z",
     "original_repository": "shyim/awesome-shopware",
     "original_repository_id": 113993665,
     "original_repository_sha": "dfc1f4eb03f741c904f33e5a5435bdfcb128d5ef",
