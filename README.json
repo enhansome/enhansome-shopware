@@ -627,7 +627,7 @@
             "archived": false,
             "id": 408522984,
             "language": "Kotlin",
-            "last_commit": "2026-08-21T05:44:50Z",
+            "last_commit": "2026-08-24T15:05:02Z",
             "owner": "shopware",
             "repo": "shopware6-phpstorm-plugin",
             "stars": 65
@@ -1622,7 +1622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:03.126Z",
+    "last_updated": "2026-08-25T01:56:19.909Z",
     "original_repository": "shyim/awesome-shopware",
     "original_repository_id": 113993665,
     "original_repository_sha": "dfc1f4eb03f741c904f33e5a5435bdfcb128d5ef",
