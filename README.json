@@ -1622,9 +1622,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:59:05.405Z",
-    "original_repository": "shyim/awesome-shopware",
-    "original_repository_id": 113993665,
+    "last_updated": "2026-08-27T12:04:31.508Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 113993665,
+      "language": null,
+      "last_commit": "2024-11-11T23:20:06Z",
+      "owner": "shyim",
+      "repo": "awesome-shopware",
+      "stars": 140
+    },
     "original_repository_sha": "dfc1f4eb03f741c904f33e5a5435bdfcb128d5ef",
     "enhanced_repository": "enhansome/enhansome-shopware",
     "enhanced_repository_description": null,
