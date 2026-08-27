@@ -2,9 +2,9 @@
 
 # Awesome Shopware with stars
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,406 | 🐛 1,312 | 🌐 PHP | 📅 2026-08-25 ecosystem.
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,408 | 🐛 1,360 | 🌐 PHP | 📅 2026-08-27 ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,670 | 🐛 85 | 📅 2026-07-13
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,669 | 🐛 85 | 📅 2026-07-13
 
 ## Contents
 
@@ -78,7 +78,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ## IDE / PhpStorm Plugins
 
-* [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) ⭐ 930 | 🐛 378 | 🌐 Java | 📅 2026-08-25 - PhpStorm Symfony Plugin.
+* [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) ⭐ 929 | 🐛 378 | 🌐 Java | 📅 2026-08-25 - PhpStorm Symfony Plugin.
 * [PHP Annotations](https://github.com/Haehnchen/idea-php-annotation-plugin) ⭐ 257 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-12 - PhpStorm Annotations plugin.
 * [PHP Toolbox](https://github.com/Haehnchen/idea-php-toolbox) ⭐ 162 | 🐛 56 | 🌐 Java | 📅 2026-07-18 - PHP Toolbox includes some Shopware configurations.
 * [Shopware 6 Toolbox](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ⭐ 65 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-24 - PhpStorm Shopware 6 plugin.
@@ -140,9 +140,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ## Payment Plugins
 
-* [Mollie](https://github.com/mollie/Shopware) ⭐ 18 | 🐛 16 | 🌐 PHP | 📅 2025-12-02 - Mollie integration.
+* [Mollie](https://github.com/mollie/Shopware) ⭐ 18 | 🐛 16 | 🌐 PHP | 📅 2026-08-26 - Mollie integration.
 * \[<https://github.com/steampixel/SteamPixelSepa> ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15] - Show SEPA payment fields on checkout page
-* [Payone](https://github.com/PAYONE-GmbH/shopware-5) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2026-05-29 - Payone integration.
+* [Payone](https://github.com/PAYONE-GmbH/shopware-5) ⭐ 9 | 🐛 3 | 🌐 PHP | 📅 2026-05-29 - Payone integration.
 * [Paypal](https://github.com/shopwareLabs/SwagPaymentPaypal) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2023-07-13 - A PayPal integration for Shopware.
 * [Paymill](https://github.com/paymill/paymill-shopware) ⭐ 4 | 🐛 2 | 🌐 PHP | 📅 2017-05-23 - Paymill integration.
 * [Paypal Plus](https://github.com/shopwareLabs/SwagPaymentPaypalPlus) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2018-12-02 - Paypal Plus integration.
@@ -189,4 +189,4 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

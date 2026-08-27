@@ -585,7 +585,7 @@
             "last_commit": "2026-08-25T19:36:36Z",
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
-            "stars": 930
+            "stars": 929
           }
         },
         {
@@ -1173,7 +1173,7 @@
             "archived": false,
             "id": 86825255,
             "language": "PHP",
-            "last_commit": "2025-12-02T11:47:07Z",
+            "last_commit": "2026-08-26T08:58:26Z",
             "owner": "mollie",
             "repo": "Shopware",
             "stars": 18
@@ -1622,7 +1622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:02:21.658Z",
+    "last_updated": "2026-08-27T09:59:05.405Z",
     "original_repository": "shyim/awesome-shopware",
     "original_repository_id": 113993665,
     "original_repository_sha": "dfc1f4eb03f741c904f33e5a5435bdfcb128d5ef",
