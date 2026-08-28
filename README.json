@@ -16,7 +16,8 @@
             "owner": "shopware5",
             "repo": "SwagBackendOrder",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "shopware5",
             "repo": "SwagImportExport",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "shopware5",
             "repo": "SwagMigration",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "webmatch",
             "repo": "WbmQueryManager",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshMailArchive",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshSimultaneousEditNotification",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "shyim",
             "repo": "shopware-google-auth",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "webmatch",
             "repo": "WbmTemplateManager",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshExtendedPluginManager",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "buddhaCode",
             "repo": "BucoPartDocuments",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "shopware5",
             "repo": "SwagTinyMceCustomFont",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "KSK-Agentur",
             "repo": "HeptacomBackendCaptcha",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "uehler",
             "repo": "shopware-shortcuts",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "buddhaCode",
             "repo": "BucoAllowMultipleDocuments",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "buddhaCode",
             "repo": "BucoOrderDocumentsApi",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Backend Plugins"
@@ -247,7 +262,8 @@
             "owner": "shopware5",
             "repo": "sw-cli-tools",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "pickware",
             "repo": "scs-commander",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Command Line"
@@ -283,7 +300,8 @@
             "owner": "bcremer",
             "repo": "shopware-with-nginx",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "janbuecker",
             "repo": "shopware-with-caddy",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Configuration"
@@ -319,7 +338,8 @@
             "owner": "apertureless",
             "repo": "shopware-api-client",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "plentymarkets",
             "repo": "plentymarkets-shopware-connector",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "shopwareArchive",
             "repo": "SwagConnect",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "micronax",
             "repo": "python-shopware-rest-client",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "shopdoktor",
             "repo": "shopware-csharp-api-connector",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "neta-io",
             "repo": "shopware-sdk",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Connectors"
@@ -415,7 +440,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshProfiler",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshMailCatcher",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "simkli",
             "repo": "SimklThemeSettingExport",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshAdminer",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "shyim",
             "repo": "whoops-for-shopware",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "shyim",
             "repo": "ShyimPluginManager",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "mschop",
             "repo": "shopware-prod2testing",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshViewSnapshots",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshHttpCacheIpExclude",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "smittreiter",
             "repo": "DneCustomJsCss",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "webmatch",
             "repo": "WbmViewportResizer",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Development Plugins"
@@ -586,7 +622,8 @@
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
             "stars": 929
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -601,7 +638,8 @@
             "owner": "Haehnchen",
             "repo": "idea-php-annotation-plugin",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "Haehnchen",
             "repo": "idea-php-toolbox",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -627,11 +666,12 @@
             "archived": false,
             "id": 408522984,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T15:05:02Z",
+            "last_commit": "2026-08-28T05:54:45Z",
             "owner": "shopware",
             "repo": "shopware6-phpstorm-plugin",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -646,7 +686,8 @@
             "owner": "Haehnchen",
             "repo": "idea-php-shopware-plugin",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "IDE / PhpStorm Plugins"
@@ -667,7 +708,8 @@
             "owner": "1drop",
             "repo": "shopware-sentry",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -682,7 +724,8 @@
             "owner": "shopware-blog",
             "repo": "shopware-bugsnag",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Error Reporting"
@@ -703,7 +746,8 @@
             "owner": "shopwareArchive",
             "repo": "SwagProductDiscount",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -718,7 +762,8 @@
             "owner": "bcremer",
             "repo": "SwagSessionHandler",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -733,7 +778,8 @@
             "owner": "rofthedeep",
             "repo": "SubscriberTest",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Plugin Examples"
@@ -754,7 +800,8 @@
             "owner": "screeny05",
             "repo": "shopware-vueify",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -769,7 +816,8 @@
             "owner": "screeny05",
             "repo": "shopware-missing-mixins",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -784,7 +832,8 @@
             "owner": "screeny05",
             "repo": "shopware-missing-includes",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -799,7 +848,8 @@
             "owner": "screeny05",
             "repo": "shopware-typedef",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Frontend Development Resources"
@@ -820,7 +870,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshWebP",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -835,7 +886,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshPerformance",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -850,7 +902,8 @@
             "owner": "shopware5",
             "repo": "SwagThreeSixtyViewer",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -865,7 +918,8 @@
             "owner": "portrino",
             "repo": "shopware-hybrid-auth",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -880,7 +934,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshVariantSwitch",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -895,7 +950,8 @@
             "owner": "shopware5",
             "repo": "SwagBrowserLanguage",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -910,7 +966,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshDataTableLayout",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -925,7 +982,8 @@
             "owner": "shopware5",
             "repo": "SwagUserPrice",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -940,7 +998,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshOptimusMediaOptimizer",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -955,7 +1014,8 @@
             "owner": "shopware5",
             "repo": "SwagCustomSort",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -970,7 +1030,8 @@
             "owner": "kielcoding",
             "repo": "KielCodingSecurityHeaders",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -985,7 +1046,8 @@
             "owner": "runelaenen",
             "repo": "RuneShoppingWorldPages",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1062,8 @@
             "owner": "akshaynikhare",
             "repo": "SloxMatomoEcomerce",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1015,7 +1078,8 @@
             "owner": "mnaczenski",
             "repo": "MNAddDSVGO",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1094,8 @@
             "owner": "marcmanusch",
             "repo": "PaulMiniBasketFix",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1110,8 @@
             "owner": "HEPTACOM",
             "repo": "HeptacomAmp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1060,7 +1126,8 @@
             "owner": "buddhaCode",
             "repo": "BucoFontPreload",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1075,7 +1142,8 @@
             "owner": "akshaynikhare",
             "repo": "SloxAdditionalCurrency",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1090,7 +1158,8 @@
             "owner": "KSK-Agentur",
             "repo": "HeptacomAdvancedShare",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1105,7 +1174,8 @@
             "owner": "buddhaCode",
             "repo": "BucoFormsHttpCache",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1190,8 @@
             "owner": "buddhaCode",
             "repo": "BucoStaticXhrHttpCache",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Frontend Plugins"
@@ -1141,7 +1212,8 @@
             "owner": "shopwareArchive",
             "repo": "shopware-docker",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1228,8 @@
             "owner": "shopware5",
             "repo": "shopware-vagrant",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Local Development"
@@ -1177,7 +1250,8 @@
             "owner": "mollie",
             "repo": "Shopware",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1192,7 +1266,8 @@
             "owner": "steampixel",
             "repo": "SteamPixelSepa",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1207,7 +1282,8 @@
             "owner": "PAYONE-GmbH",
             "repo": "shopware-5",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1222,7 +1298,8 @@
             "owner": "shopware5",
             "repo": "SwagPaymentPaypal",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1314,8 @@
             "owner": "paymill",
             "repo": "paymill-shopware",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1252,7 +1330,8 @@
             "owner": "shopware5",
             "repo": "SwagPaymentPaypalPlus",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1267,7 +1346,8 @@
             "owner": "pthreat",
             "repo": "StangeMercadoPago",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1362,8 @@
             "owner": "wallee-payment",
             "repo": "shopware-5",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1297,7 +1378,8 @@
             "owner": "hobex",
             "repo": "shopware-qcs",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1312,7 +1394,8 @@
             "owner": "ratepay",
             "repo": "shopware5-module",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1327,7 +1410,8 @@
             "owner": "unzer-sp",
             "repo": "ShopwareStandardModul",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1342,7 +1426,8 @@
             "owner": "g2a-official",
             "repo": "g2a-pay-shopware",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1357,7 +1442,8 @@
             "owner": "shopware5",
             "repo": "SwagPaymentIpayment",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Payment Plugins"
@@ -1378,7 +1464,8 @@
             "owner": "conexco",
             "repo": "shopware-bootstrap-theme",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1480,8 @@
             "owner": "Blur-Creative",
             "repo": "theme-views",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Themes"
@@ -1414,7 +1502,8 @@
             "owner": "webmatch",
             "repo": "WbmTagManager",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1429,7 +1518,8 @@
             "owner": "shopware5",
             "repo": "SwagGoogle",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1444,7 +1534,8 @@
             "owner": "Nosto",
             "repo": "nosto-shopware",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1459,7 +1550,8 @@
             "owner": "arvatis",
             "repo": "GoogleRemarketing",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1474,7 +1566,8 @@
             "owner": "stetic",
             "repo": "stetic-shopware",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1489,7 +1582,8 @@
             "owner": "tinect",
             "repo": "TinectMatomo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1504,7 +1598,8 @@
             "owner": "arvatis",
             "repo": "GoogleCertifiedStores",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1519,7 +1614,8 @@
             "owner": "marcmanusch",
             "repo": "PaulLiveZillaKnowledgeBase",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1630,8 @@
             "owner": "marcmanusch",
             "repo": "PaulBingTracking",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Tracking"
@@ -1555,7 +1652,8 @@
             "owner": "shopware5",
             "repo": "SwagMediaS3",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1570,7 +1668,8 @@
             "owner": "shopware5",
             "repo": "SwagMediaSftp",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1585,7 +1684,8 @@
             "owner": "FriendsOfShopware",
             "repo": "FroshBunnycdnMediaStorage",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1600,7 +1700,8 @@
             "owner": "shopware5",
             "repo": "SwagMediaGCP",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         },
         {
           "node_type": "item",
@@ -1615,14 +1716,15 @@
             "owner": "shopware5",
             "repo": "SwagMediaAzure",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T11:31:24.759Z"
         }
       ],
       "title": "Media Adapter"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:31.508Z",
+    "last_updated": "2026-08-28T11:31:24.759Z",
     "original_repository_info": {
       "archived": false,
       "id": 113993665,
