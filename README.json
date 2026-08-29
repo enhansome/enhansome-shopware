@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin which allows you to create orders via backend module",
+            "homepage": null,
             "id": 57282795,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-08-29T14:41:55Z",
+            "open_issues": 0,
             "owner": "shopware5",
             "repo": "SwagBackendOrder",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -26,12 +33,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 47250256,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-01-05T12:41:05Z",
+            "open_issues": 3,
             "owner": "shopware5",
             "repo": "SwagImportExport",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware 5 Migration (Import from third party systems)",
+            "homepage": "http://store.shopware.com/en/swag00426/migrating-from-other-shop-systems-to-shopware-4.html",
             "id": 10815834,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-09-21T06:42:15Z",
+            "open_issues": 0,
             "owner": "shopware5",
             "repo": "SwagMigration",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -58,12 +77,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database-Management Plugin for Shopware 5",
+            "homepage": null,
             "id": 79573581,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-11-13T19:31:52Z",
+            "open_issues": 2,
             "owner": "webmatch",
             "repo": "WbmQueryManager",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "database",
+              "query",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -74,12 +103,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This plugin allows you to archive your mails.",
+            "homepage": null,
             "id": 164628527,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-02-25T14:46:09Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshMailArchive",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -90,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This plugin allows you to get notified when someone is editing the same entity",
+            "homepage": null,
             "id": 101329096,
             "language": "Smarty",
+            "license": "MIT",
             "last_commit": "2023-02-25T14:44:07Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshSimultaneousEditNotification",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -106,12 +145,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Google Authenticator Integration",
+            "homepage": null,
             "id": 81250595,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-12-16T16:34:26Z",
+            "open_issues": 0,
             "owner": "shyim",
             "repo": "shopware-google-auth",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "google-authenticator",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -122,12 +169,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware-Plugin to extend or overwrite templates within the backend",
+            "homepage": null,
             "id": 87194436,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-12-16T17:46:48Z",
+            "open_issues": 0,
             "owner": "webmatch",
             "repo": "WbmTemplateManager",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "shopware",
+              "shopware-plugin",
+              "smarty",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -138,12 +195,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 99806397,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-18T14:52:54Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshExtendedPluginManager",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -154,12 +216,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shopware plugin to create order documents for just a subset of positions of an order.",
+            "homepage": null,
             "id": 191908904,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2019-06-14T08:53:04Z",
+            "open_issues": 0,
             "owner": "buddhaCode",
             "repo": "BucoPartDocuments",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "document",
+              "part-document",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -170,12 +242,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add custom fonts to your TinyMCE editor in the Shopware administration",
+            "homepage": "https://shopware.com",
             "id": 99780684,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-05-08T14:08:31Z",
+            "open_issues": 0,
             "owner": "shopware5",
             "repo": "SwagTinyMceCustomFont",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "custom-fonts",
+              "shopware-plugin",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -186,12 +267,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reCAPTCHA von Google macht das Backend von Shopware sicherer und verhindert Zugriffe durch  Bots.",
+            "homepage": "https://store.shopware.com/hepta17566641621/backend-recaptcha.html",
             "id": 72730086,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2017-09-01T13:22:27Z",
+            "open_issues": 1,
             "owner": "KSK-Agentur",
             "repo": "HeptacomBackendCaptcha",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "google-recaptcha",
+              "heptacom",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -202,12 +293,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin for shopware which adds more shortcuts for the existing extjs modules",
+            "homepage": null,
             "id": 108673904,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2018-09-25T20:14:32Z",
+            "open_issues": 0,
             "owner": "uehler",
             "repo": "shopware-shortcuts",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "beerware",
+              "shopware",
+              "shopware-plugin",
+              "shortcuts"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -218,12 +319,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shopware plugin to allow creation of multiple documents per type and order",
+            "homepage": null,
             "id": 187995866,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2019-05-22T08:30:56Z",
+            "open_issues": 0,
             "owner": "buddhaCode",
             "repo": "BucoAllowMultipleDocuments",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "document",
+              "order",
+              "shopware",
+              "shopware-plugin",
+              "shopware-plugins"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -234,12 +346,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shopware plugin which adds a REST API endpoint to access and delete order documents",
+            "homepage": null,
             "id": 187847654,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2019-05-27T07:02:02Z",
+            "open_issues": 0,
             "owner": "buddhaCode",
             "repo": "BucoOrderDocumentsApi",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "document",
+              "order",
+              "shopware",
+              "shopware-api",
+              "shopware-plugin",
+              "shopware-plugins"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -256,12 +380,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The shopware CLI tools are your console helpers for all kind of shopware tasks",
+            "homepage": null,
             "id": 20680680,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-06-12T07:03:39Z",
+            "open_issues": 8,
             "owner": "shopware5",
             "repo": "sw-cli-tools",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "shopware",
+              "shopware-cli"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -272,12 +404,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A CLI tool for managing plugins in the Shopware Community Store.",
+            "homepage": null,
             "id": 65240860,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-06T09:55:11Z",
+            "open_issues": 1,
             "owner": "pickware",
             "repo": "scs-commander",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -294,12 +431,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Running shopware using NGINX",
+            "homepage": "http://shopware.com",
             "id": 11449775,
             "language": null,
+            "license": "BSD-2-Clause",
             "last_commit": "2019-02-19T10:43:26Z",
+            "open_issues": 7,
             "owner": "bcremer",
             "repo": "shopware-with-nginx",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "nginx",
+              "shopware"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -310,12 +455,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Running shopware using caddy",
+            "homepage": "https://shopware.com",
             "id": 92622634,
             "language": null,
+            "license": null,
             "last_commit": "2017-05-27T20:42:20Z",
+            "open_issues": 0,
             "owner": "janbuecker",
             "repo": "shopware-with-caddy",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "caddyfile",
+              "caddyserver",
+              "shopware"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -332,12 +486,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛍 Javascript API Client for Shopware",
+            "homepage": null,
             "id": 82204481,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-28T12:26:35Z",
+            "open_issues": 8,
             "owner": "apertureless",
             "repo": "shopware-api-client",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "api",
+              "api-client",
+              "rest-api",
+              "shopware"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -348,12 +512,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "plentymarkets shopware connector plugin",
+            "homepage": "http://www.plentymarkets.eu/shopware/",
             "id": 11275138,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-07-20T11:59:39Z",
+            "open_issues": 5,
             "owner": "plentymarkets",
             "repo": "plentymarkets-shopware-connector",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "php",
+              "plentymarkets",
+              "plentymarkets-shopware-connector",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -364,12 +539,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 26867190,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-04-08T06:10:26Z",
+            "open_issues": 0,
             "owner": "shopwareArchive",
             "repo": "SwagConnect",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "php",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -380,12 +564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python REST Client for Shopware ",
+            "homepage": null,
             "id": 8675640,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-25T16:04:59Z",
+            "open_issues": 1,
             "owner": "micronax",
             "repo": "python-shopware-rest-client",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -396,12 +585,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C# Client for Shopware API",
+            "homepage": "https://www.shopdoktor.com/shopware/plugins/csharp-schnittstelle/",
             "id": 61577340,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-08-25T11:26:45Z",
+            "open_issues": 1,
             "owner": "shopdoktor",
             "repo": "shopware-csharp-api-connector",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -412,12 +606,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PHP SDK for the Shopware 5 REST API",
+            "homepage": null,
             "id": 147497159,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-01-28T16:21:57Z",
+            "open_issues": 3,
             "owner": "neta-io",
             "repo": "shopware-sdk",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "php",
+              "sdk",
+              "shopware"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -434,12 +637,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This plugin allows you to profile your Shopware 5 application",
+            "homepage": null,
             "id": 47857610,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-02-25T14:41:04Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshProfiler",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -450,12 +658,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This plugin allows you to catch mails in Shopware 5",
+            "homepage": null,
             "id": 93959555,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-03-03T12:04:49Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshMailCatcher",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -466,12 +679,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This plugin allows you to import or export theme configurations in Shopware 5.",
+            "homepage": null,
             "id": 48697206,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2018-11-13T13:08:25Z",
+            "open_issues": 1,
             "owner": "simkli",
             "repo": "SimklThemeSettingExport",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -482,12 +700,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Adminer plugin for Shopware",
+            "homepage": null,
             "id": 57116426,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-02-25T14:41:53Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshAdminer",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -498,12 +721,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Whoops for Shopware",
+            "homepage": null,
             "id": 38070764,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-12-06T08:15:42Z",
+            "open_issues": 0,
             "owner": "shyim",
             "repo": "whoops-for-shopware",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "shopware",
+              "shopware-plugin",
+              "whoops"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -514,12 +746,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Packagist Integration for Shopware",
+            "homepage": null,
             "id": 100607613,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-03-25T20:59:26Z",
+            "open_issues": 2,
             "owner": "shyim",
             "repo": "ShyimPluginManager",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -530,12 +769,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware plugin, that anonymizes person related information and secrets from db.",
+            "homepage": null,
             "id": 139674025,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-09-19T15:24:46Z",
+            "open_issues": 1,
             "owner": "mschop",
             "repo": "shopware-prod2testing",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "anonymizes",
+              "shopware",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -546,12 +794,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This plugin allows you to take view snapshots",
+            "homepage": null,
             "id": 130248080,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-02-25T14:58:52Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshViewSnapshots",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -562,12 +815,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This plugin allows you to exclude IP addresses from the HTTP cache",
+            "homepage": null,
             "id": 165628758,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-02-25T14:43:59Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshHttpCacheIpExclude",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -578,12 +836,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware plugin to manage custom JavaScript and CSS/LESS",
+            "homepage": null,
             "id": 130207678,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-13T23:16:44Z",
+            "open_issues": 0,
             "owner": "smittreiter",
             "repo": "DneCustomJsCss",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "compile",
+              "css",
+              "custom",
+              "javascript",
+              "js",
+              "less",
+              "manage",
+              "shopware",
+              "shopware-plugin",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -594,12 +868,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware-Plugin to preview the Frontend in responsive viewports",
+            "homepage": null,
             "id": 82930569,
             "language": "PHP",
+            "license": null,
             "last_commit": "2017-03-08T13:58:05Z",
+            "open_issues": 0,
             "owner": "webmatch",
             "repo": "WbmViewportResizer",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "developer-tools",
+              "frontend",
+              "responsive",
+              "shopware",
+              "shopware-plugin",
+              "viewport-dimensions"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -616,12 +902,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IntelliJ IDEA / PhpStorm Symfony Plugin",
+            "homepage": "https://plugins.jetbrains.com/plugin/7219",
             "id": 9279386,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:36:36Z",
+            "open_issues": 378,
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
-            "stars": 929
+            "stars": 929,
+            "topics": [
+              "annotation",
+              "autocomplete",
+              "doctrine",
+              "drupal",
+              "intellij",
+              "intellij-plugin",
+              "java",
+              "jetbrains",
+              "php",
+              "phpstorm",
+              "phpstorm-plugin",
+              "symfony",
+              "twig"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -632,12 +937,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add PHP annotation support for PhpStorm and IntelliJ",
+            "homepage": "https://plugins.jetbrains.com/plugin/7320",
             "id": 13011199,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-12T16:37:07Z",
+            "open_issues": 24,
             "owner": "Haehnchen",
             "repo": "idea-php-annotation-plugin",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "annotation",
+              "doctrine",
+              "intellij",
+              "intellij-plugin",
+              "java",
+              "phpstorm",
+              "phpstorm-plugin",
+              "symfony"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -648,12 +967,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collections of tools and improvements to make PhpStorm a little bit better",
+            "homepage": "http://phpstorm.espend.de/php-toolbox",
             "id": 28562615,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-18T08:21:03Z",
+            "open_issues": 56,
             "owner": "Haehnchen",
             "repo": "idea-php-toolbox",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "annotation",
+              "intellij",
+              "intellij-plugin",
+              "java",
+              "php",
+              "phpstorm",
+              "phpstorm-plugin",
+              "twig"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -664,12 +997,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 408522984,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:54:45Z",
+            "open_issues": 3,
             "owner": "shopware",
             "repo": "shopware6-phpstorm-plugin",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "hacktoberfest",
+              "intellij-plugin",
+              "shopware6"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -680,12 +1022,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware Plugin for PhpStorm which extends Symfony Plugin",
+            "homepage": null,
             "id": 17259624,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-22T15:21:54Z",
+            "open_issues": 18,
             "owner": "Haehnchen",
             "repo": "idea-php-shopware-plugin",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "doctrine",
+              "intellij",
+              "intellij-plugin",
+              "java",
+              "phpstorm",
+              "phpstorm-plugin",
+              "shopware",
+              "shopware-plugin",
+              "smarty",
+              "symfony"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -702,12 +1060,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sentry plugin for Shopware",
+            "homepage": null,
             "id": 85554806,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-24T03:24:33Z",
+            "open_issues": 4,
             "owner": "1drop",
             "repo": "shopware-sentry",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "sentry",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -718,12 +1085,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 103135174,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-09-27T12:11:12Z",
+            "open_issues": 0,
             "owner": "shopware-blog",
             "repo": "shopware-bugsnag",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "bugsnag",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -740,12 +1116,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "plugin prototype for the shopware labs branch",
+            "homepage": null,
             "id": 106379391,
             "language": "PHP",
+            "license": null,
             "last_commit": "2017-12-07T10:14:14Z",
+            "open_issues": 0,
             "owner": "shopwareArchive",
             "repo": "SwagProductDiscount",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "shopware",
+              "shopware-plugin",
+              "shopware-plugins"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -756,12 +1141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 80040613,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-01-26T17:56:33Z",
+            "open_issues": 1,
             "owner": "bcremer",
             "repo": "SwagSessionHandler",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -772,12 +1162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware Subscriber Tests",
+            "homepage": null,
             "id": 156216348,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-11-08T13:22:12Z",
+            "open_issues": 0,
             "owner": "rofthedeep",
             "repo": "SubscriberTest",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -794,12 +1189,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write Vue.js components for use within the Shopware-StateManager",
+            "homepage": null,
             "id": 74499022,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-12-15T09:52:34Z",
+            "open_issues": 1,
             "owner": "screeny05",
             "repo": "shopware-vueify",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "shopware",
+              "shopware-plugin",
+              "shopware-statemanager",
+              "shopware-theme",
+              "vue-components"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -810,12 +1216,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of handy LESS-Mixins to complement Shopware",
+            "homepage": null,
             "id": 59663860,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2017-04-12T16:00:47Z",
+            "open_issues": 2,
             "owner": "screeny05",
             "repo": "shopware-missing-mixins",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "css",
+              "less",
+              "mixins",
+              "shopware",
+              "shopware-theme"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -826,12 +1243,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Smarty-includes providing handy features when building a Shopware shop",
+            "homepage": null,
             "id": 91777674,
             "language": "Smarty",
+            "license": "MIT",
             "last_commit": "2017-06-14T15:11:23Z",
+            "open_issues": 0,
             "owner": "screeny05",
             "repo": "shopware-missing-includes",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "shopware",
+              "shopware-theme"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -842,12 +1267,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware 5 Typescript definitions",
+            "homepage": null,
             "id": 119388921,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2018-09-10T09:08:17Z",
+            "open_issues": 0,
             "owner": "screeny05",
             "repo": "shopware-typedef",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "shopware",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -864,12 +1297,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "WebP Support for Shopware",
+            "homepage": null,
             "id": 102772378,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-02-25T14:40:19Z",
+            "open_issues": 10,
             "owner": "FriendsOfShopware",
             "repo": "FroshWebP",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -880,12 +1318,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Performance improvements for Shopware",
+            "homepage": null,
             "id": 144751749,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-06-22T19:09:34Z",
+            "open_issues": 3,
             "owner": "FriendsOfShopware",
             "repo": "FroshPerformance",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "http2-push",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -896,12 +1342,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 93168747,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-05T09:12:24Z",
+            "open_issues": 1,
             "owner": "shopware5",
             "repo": "SwagThreeSixtyViewer",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "3d-viewer",
+              "babylonjs",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -912,12 +1368,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shopware Plugin for Social Login via Facebook, Google, ...",
+            "homepage": null,
             "id": 110731474,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2019-02-21T20:49:15Z",
+            "open_issues": 11,
             "owner": "portrino",
             "repo": "shopware-hybrid-auth",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "facebook",
+              "google",
+              "hybridauth",
+              "linkedin",
+              "shopware",
+              "social-login"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -928,12 +1396,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This plugin allows you to switch between variants",
+            "homepage": null,
             "id": 130248125,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-02-25T14:43:48Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshVariantSwitch",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -944,12 +1417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 47120869,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-08-24T10:10:11Z",
+            "open_issues": 0,
             "owner": "shopware5",
             "repo": "SwagBrowserLanguage",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -960,12 +1438,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Adds data table to the available product layouts of categories",
+            "homepage": null,
             "id": 166746655,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-08-23T16:58:00Z",
+            "open_issues": 4,
             "owner": "FriendsOfShopware",
             "repo": "FroshDataTableLayout",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ajax",
+              "category",
+              "datatable",
+              "layout",
+              "product",
+              "shopware",
+              "shopware-plugin",
+              "table"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -976,12 +1468,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 76356417,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-07-03T14:55:11Z",
+            "open_issues": 0,
             "owner": "shopware5",
             "repo": "SwagUserPrice",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -992,12 +1492,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shopware-Plugin to optimize thumbnails with optimus.io",
+            "homepage": null,
             "id": 102740738,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-03-11T18:12:08Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshOptimusMediaOptimizer",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1008,12 +1513,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 47120596,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-09-18T15:12:40Z",
+            "open_issues": 1,
             "owner": "shopware5",
             "repo": "SwagCustomSort",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "shopware-plugin",
+              "shopware-plugins"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1024,12 +1537,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add security headers to Shopware",
+            "homepage": null,
             "id": 118034636,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-02-11T18:51:59Z",
+            "open_issues": 0,
             "owner": "kielcoding",
             "repo": "KielCodingSecurityHeaders",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "shopware5-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1040,12 +1560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add Shopping Worlds to Shop Pages in Shopware",
+            "homepage": "https://packagist.org/packages/runelaenen/shopware-page-shoppingworld",
             "id": 167740124,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-01-27T16:03:16Z",
+            "open_issues": 1,
             "owner": "runelaenen",
             "repo": "RuneShoppingWorldPages",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1056,12 +1581,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "shopware 6 plugin to integrates Matomo  eCommerce tracking , supported by JavaScript and the Matomo Tag Manager.",
+            "homepage": null,
             "id": 815082748,
             "language": "Twig",
+            "license": "MIT",
             "last_commit": "2024-07-08T13:16:01Z",
+            "open_issues": 0,
             "owner": "akshaynikhare",
             "repo": "SloxMatomoEcomerce",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "shopware",
+              "shopware6",
+              "shopware6-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1072,12 +1606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 127130668,
             "language": "Smarty",
+            "license": null,
             "last_commit": "2018-04-16T05:26:48Z",
+            "open_issues": 0,
             "owner": "mnaczenski",
             "repo": "MNAddDSVGO",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1088,12 +1627,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 118248589,
             "language": "Smarty",
+            "license": "GPL-3.0",
             "last_commit": "2018-01-28T14:08:42Z",
+            "open_issues": 0,
             "owner": "marcmanusch",
             "repo": "PaulMiniBasketFix",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "miniwarenkorb",
+              "mwst",
+              "plugin",
+              "shopware"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1104,12 +1653,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://store.shopware.com/hepta91012583836/amp.html",
             "id": 97816122,
             "language": "Smarty",
+            "license": "GPL-3.0",
             "last_commit": "2020-02-12T10:27:15Z",
+            "open_issues": 1,
             "owner": "HEPTACOM",
             "repo": "HeptacomAmp",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "amp-html",
+              "ecommerce",
+              "gplv3",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1120,12 +1680,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shopware plugin to preload font assets",
+            "homepage": null,
             "id": 177636140,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2019-05-17T10:31:19Z",
+            "open_issues": 0,
             "owner": "buddhaCode",
             "repo": "BucoFontPreload",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "font",
+              "fonts",
+              "preload",
+              "preloaders",
+              "preloading",
+              "shopware",
+              "shopware-plugin",
+              "shopware-plugins",
+              "webfont",
+              "webfontloader",
+              "webfonts"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1136,12 +1713,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "shopware 6 plugin to display additional currency in storefront",
+            "homepage": null,
             "id": 815079614,
             "language": "Twig",
+            "license": "MIT",
             "last_commit": "2024-07-08T13:15:50Z",
+            "open_issues": 0,
             "owner": "akshaynikhare",
             "repo": "SloxAdditionalCurrency",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "shopware",
+              "shopware6-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1152,12 +1737,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elegant eingebundene Teilen-Buttons für Shopware",
+            "homepage": "https://store.shopware.com/hepta21674218489/advanced-share.html",
             "id": 75846095,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2018-01-25T09:07:01Z",
+            "open_issues": 1,
             "owner": "KSK-Agentur",
             "repo": "HeptacomAdvancedShare",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "heptacom",
+              "shopware",
+              "shopware-plugin",
+              "social-media"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1168,12 +1763,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shopware plugin to enable HTTP caching for forms",
+            "homepage": null,
             "id": 181882357,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-05-17T12:10:45Z",
+            "open_issues": 0,
             "owner": "buddhaCode",
             "repo": "BucoFormsHttpCache",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cache",
+              "http",
+              "shopware",
+              "shopware-plugin",
+              "shopware-plugins"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1184,12 +1790,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shopware plugin to enable HTTP caching for shop pages in modal boxes",
+            "homepage": null,
             "id": 181882404,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-05-17T11:52:43Z",
+            "open_issues": 0,
             "owner": "buddhaCode",
             "repo": "BucoStaticXhrHttpCache",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cache",
+              "http",
+              "shopware",
+              "shopware-plugin",
+              "shopware-plugins"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -1206,12 +1823,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A docker setup ready for shopware development",
+            "homepage": null,
             "id": 81538178,
             "language": "Shell",
+            "license": null,
             "last_commit": "2020-02-19T10:18:25Z",
+            "open_issues": 5,
             "owner": "shopwareArchive",
             "repo": "shopware-docker",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "docker",
+              "shopware"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1222,12 +1847,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Vagrant setup ready for shopware development",
+            "homepage": null,
             "id": 30412538,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-06-09T14:43:09Z",
+            "open_issues": 3,
             "owner": "shopware5",
             "repo": "shopware-vagrant",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "shopware",
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -1244,12 +1877,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Mollie extension for Shopware",
+            "homepage": null,
             "id": 86825255,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-08-26T08:58:26Z",
+            "open_issues": 16,
             "owner": "mollie",
             "repo": "Shopware",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1260,12 +1898,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show SEPA payment fields on checkout page",
+            "homepage": null,
             "id": 578099637,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2025-09-15T11:26:35Z",
+            "open_issues": 2,
             "owner": "steampixel",
             "repo": "SteamPixelSepa",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1276,12 +1919,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PAYONE Payment Plugin for shopware 5",
+            "homepage": null,
             "id": 58461391,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-05-29T12:35:56Z",
+            "open_issues": 3,
             "owner": "PAYONE-GmbH",
             "repo": "shopware-5",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "payment-methods",
+              "payment-processing",
+              "payment-service",
+              "payment-solution",
+              "payone",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1292,12 +1948,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PayPal integration for shopware",
+            "homepage": "http://shopware.com",
             "id": 26865187,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-07-13T06:58:36Z",
+            "open_issues": 0,
             "owner": "shopware5",
             "repo": "SwagPaymentPaypal",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1308,12 +1972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware plugin for Paymill payments",
+            "homepage": "https://paymill.com/de-de/dokumentation/referenz/plugins-extensions/",
             "id": 6121542,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-05-23T09:09:22Z",
+            "open_issues": 2,
             "owner": "paymill",
             "repo": "paymill-shopware",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1324,12 +1993,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 42584294,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-12-02T19:25:51Z",
+            "open_issues": 0,
             "owner": "shopware5",
             "repo": "SwagPaymentPaypalPlus",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1340,12 +2016,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware MercadoPago Plugin",
+            "homepage": null,
             "id": 83941706,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-03-24T05:39:53Z",
+            "open_issues": 0,
             "owner": "pthreat",
             "repo": "StangeMercadoPago",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "mercadopago",
+              "mercadopago-api",
+              "shopware",
+              "shopware-mercadopago",
+              "shopware-plugin",
+              "shopware-plugins"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1356,12 +2044,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Wallee integration for Shopware 5",
+            "homepage": "https://wallee.com",
             "id": 92167356,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-05T08:59:59Z",
+            "open_issues": 0,
             "owner": "wallee-payment",
             "repo": "shopware-5",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "payment",
+              "payment-integration",
+              "php",
+              "shopware",
+              "shopware-plugin",
+              "wallee"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1372,12 +2072,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QMORE Checkout Seamless plugin for Shopware",
+            "homepage": null,
             "id": 57139866,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2022-03-14T14:21:33Z",
+            "open_issues": 0,
             "owner": "hobex",
             "repo": "shopware-qcs",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "payment-methods",
+              "qenta",
+              "qenta-cee",
+              "shopware"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1388,12 +2098,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ratepay Payment Module for Shopware 5. Supports 5.3.x up to 5.7.x",
+            "homepage": "https://docs.ratepay.com/docs/developer/shop_modules/shopware/shopware_5/ratepay_payment_plugin_for_shopware/",
             "id": 35486091,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-09-11T07:07:04Z",
+            "open_issues": 0,
             "owner": "ratepay",
             "repo": "shopware5-module",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "direct-debit",
+              "ecommerce",
+              "instalments",
+              "invoice",
+              "payment",
+              "payment-integration",
+              "prepayment",
+              "shopware"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1404,12 +2128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 99130312,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-08-01T07:47:44Z",
+            "open_issues": 5,
             "owner": "unzer-sp",
             "repo": "ShopwareStandardModul",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1420,12 +2149,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "G2A Pay - module for Shopware",
+            "homepage": null,
             "id": 97511736,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-12T08:11:59Z",
+            "open_issues": 0,
             "owner": "g2a-official",
             "repo": "g2a-pay-shopware",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1436,12 +2170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 47121187,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-09-04T07:08:16Z",
+            "open_issues": 1,
             "owner": "shopware5",
             "repo": "SwagPaymentIpayment",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -1458,12 +2197,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "the Shopware Bootstrap Theme for Shopware",
+            "homepage": "https://www.bootstrap.de/",
             "id": 105308553,
             "language": "Smarty",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-15T15:06:18Z",
+            "open_issues": 15,
             "owner": "conexco",
             "repo": "shopware-bootstrap-theme",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "bootstrap",
+              "bootstrap-theme",
+              "shopware",
+              "shopware-plugin",
+              "shopware-theme"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1474,12 +2224,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware 5 Theme",
+            "homepage": "http://store.shopware.com/blur467826946731/views/responsive-theme.html",
             "id": 112110787,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2019-09-25T12:32:51Z",
+            "open_issues": 22,
             "owner": "Blur-Creative",
             "repo": "theme-views",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "shopware",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -1496,12 +2254,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware 5 Plugin for Google Tag Manager integration and dataLayer configuration",
+            "homepage": null,
             "id": 80517244,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-12-15T22:31:53Z",
+            "open_issues": 5,
             "owner": "webmatch",
             "repo": "WbmTagManager",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "datalayer",
+              "datalayer-configuration",
+              "google-tag-manager",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1512,12 +2281,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopware integration for Google Analytics, Universal Analytics and Google Adwords services",
+            "homepage": "http://shopware.com  ",
             "id": 29917919,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-08-29T14:56:20Z",
+            "open_issues": 2,
             "owner": "shopware5",
             "repo": "SwagGoogle",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1528,12 +2305,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nosto plugin for Shopware",
+            "homepage": "http://store.shopware.com/en/nosto32157561647/nosto-personalization-for-shopware.html",
             "id": 34439321,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-01-17T07:57:59Z",
+            "open_issues": 17,
             "owner": "Nosto",
             "repo": "nosto-shopware",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "ecommerce",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1544,12 +2330,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Remarketing for Shopware",
+            "homepage": "https://store.shopware.com/arv6018847342008/google-remarketing-fuer-shopware.html",
             "id": 60759346,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-12-13T16:17:41Z",
+            "open_issues": 0,
             "owner": "arvatis",
             "repo": "GoogleRemarketing",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1560,12 +2354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stetic Shopware Plugin",
+            "homepage": null,
             "id": 27380354,
             "language": "PHP",
+            "license": null,
             "last_commit": "2017-01-08T17:10:03Z",
+            "open_issues": 0,
             "owner": "stetic",
             "repo": "stetic-shopware",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1576,12 +2375,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 137380633,
             "language": "Smarty",
+            "license": "MIT",
             "last_commit": "2020-08-29T18:16:16Z",
+            "open_issues": 1,
             "owner": "tinect",
             "repo": "TinectMatomo",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "matomo",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1592,12 +2399,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Certified Shops Plugin for Shopware",
+            "homepage": "https://store.shopware.com/arv8622756173911/google-zertifizierte-haendler-fuer-shopware.html",
             "id": 60759189,
             "language": "Smarty",
+            "license": "MIT",
             "last_commit": "2017-07-19T12:28:08Z",
+            "open_issues": 0,
             "owner": "arvatis",
             "repo": "GoogleCertifiedStores",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1608,12 +2423,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This Shopware plugin adds the LiveZilla knowledgebase to a shoppage",
+            "homepage": null,
             "id": 120998285,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2018-02-17T19:49:54Z",
+            "open_issues": 1,
             "owner": "marcmanusch",
             "repo": "PaulLiveZillaKnowledgeBase",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "knowledge-base",
+              "livezilla",
+              "shopware"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1624,12 +2448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 119212426,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2018-01-28T13:05:36Z",
+            "open_issues": 0,
             "owner": "marcmanusch",
             "repo": "PaulBingTracking",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -1646,12 +2475,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 42433261,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-10-15T11:47:18Z",
+            "open_issues": 2,
             "owner": "shopware5",
             "repo": "SwagMediaS3",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "s3",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1662,12 +2500,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 42433525,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-03-05T07:45:13Z",
+            "open_issues": 1,
             "owner": "shopware5",
             "repo": "SwagMediaSftp",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "sftp",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1678,12 +2525,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This plugin allows you to use BunnyCDN as a media storage.",
+            "homepage": null,
             "id": 150750517,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-02-25T14:41:41Z",
+            "open_issues": 0,
             "owner": "FriendsOfShopware",
             "repo": "FroshBunnycdnMediaStorage",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1694,12 +2546,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Cloud Storage Adapter for Shopware",
+            "homepage": null,
             "id": 73896167,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-02-08T14:53:34Z",
+            "open_issues": 0,
             "owner": "shopware5",
             "repo": "SwagMediaGCP",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "gcp",
+              "google-cloud-storage",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         },
@@ -1710,12 +2572,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 73815841,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-08-22T13:10:14Z",
+            "open_issues": 1,
             "owner": "shopware5",
             "repo": "SwagMediaAzure",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "azure",
+              "microsoft",
+              "shopware",
+              "shopware-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
         }
@@ -1724,15 +2596,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:31:24.759Z",
+    "last_updated": "2026-08-29T04:57:52.123Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Shopware - Open Source eCommerce built with PHP",
+      "homepage": null,
       "id": 113993665,
       "language": null,
+      "license": null,
       "last_commit": "2024-11-11T23:20:06Z",
+      "open_issues": 2,
       "owner": "shyim",
       "repo": "awesome-shopware",
-      "stars": 140
+      "stars": 140,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "shopware"
+      ]
     },
     "original_repository_sha": "dfc1f4eb03f741c904f33e5a5435bdfcb128d5ef",
     "enhanced_repository": "enhansome/enhansome-shopware",
