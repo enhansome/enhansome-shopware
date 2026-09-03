@@ -908,7 +908,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-31T18:01:21Z",
-            "open_issues": 379,
+            "open_issues": 380,
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
             "stars": 928,
@@ -1006,7 +1006,7 @@
             "open_issues": 3,
             "owner": "shopware",
             "repo": "shopware6-phpstorm-plugin",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "hacktoberfest",
               "intellij-plugin",
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:45:12.751Z",
+    "last_updated": "2026-09-03T04:41:03.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
