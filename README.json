@@ -907,8 +907,8 @@
             "id": 9279386,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-31T18:01:21Z",
-            "open_issues": 380,
+            "last_commit": "2026-09-07T17:56:59Z",
+            "open_issues": 379,
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
             "stars": 928,
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T04:54:02.613Z",
+    "last_updated": "2026-09-08T04:49:55.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
