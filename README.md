@@ -2,9 +2,9 @@
 
 # Awesome Shopware with stars
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,426 | 🐛 1,382 | 🌐 PHP | 📅 2026-09-13 ecosystem.
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,426 | 🐛 1,384 | 🌐 PHP | 📅 2026-09-14 ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,695 | 🐛 90 | 📅 2026-07-13
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,697 | 🐛 90 | 📅 2026-07-13
 
 ## Contents
 
@@ -78,10 +78,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ## IDE / PhpStorm Plugins
 
-* [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) ⭐ 928 | 🐛 378 | 🌐 Java | 📅 2026-09-12 - PhpStorm Symfony Plugin.
+* [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) ⭐ 928 | 🐛 378 | 🌐 Java | 📅 2026-09-13 - PhpStorm Symfony Plugin.
 * [PHP Annotations](https://github.com/Haehnchen/idea-php-annotation-plugin) ⭐ 257 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-12 - PhpStorm Annotations plugin.
 * [PHP Toolbox](https://github.com/Haehnchen/idea-php-toolbox) ⭐ 162 | 🐛 56 | 🌐 Java | 📅 2026-07-18 - PHP Toolbox includes some Shopware configurations.
-* [Shopware 6 Toolbox](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ⭐ 65 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-11 - PhpStorm Shopware 6 plugin.
+* [Shopware 6 Toolbox](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ⭐ 65 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-14 - PhpStorm Shopware 6 plugin.
 * [Shopware Plugin](https://github.com/Haehnchen/idea-php-shopware-plugin) ⭐ 56 | 🐛 18 | 🌐 Java | 📅 2026-07-22 - PhpStorm Shopware plugin.
 
 ## Error Reporting
@@ -189,4 +189,4 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
