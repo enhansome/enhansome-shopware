@@ -907,8 +907,8 @@
             "id": 9279386,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-13T16:33:35Z",
-            "open_issues": 378,
+            "last_commit": "2026-09-14T19:53:25Z",
+            "open_issues": 379,
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
             "stars": 928,
@@ -1002,7 +1002,7 @@
             "id": 408522984,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-14T03:10:48Z",
+            "last_commit": "2026-09-14T06:36:26Z",
             "open_issues": 4,
             "owner": "shopware",
             "repo": "shopware6-phpstorm-plugin",
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T05:06:47.175Z",
+    "last_updated": "2026-09-15T05:02:03.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
