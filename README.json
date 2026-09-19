@@ -911,7 +911,7 @@
             "open_issues": 379,
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
-            "stars": 928,
+            "stars": 929,
             "topics": [
               "annotation",
               "autocomplete",
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T04:53:04.456Z",
+    "last_updated": "2026-09-19T04:44:58.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
