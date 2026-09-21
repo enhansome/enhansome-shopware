@@ -2,9 +2,9 @@
 
 # Awesome Shopware with stars
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,425 | 🐛 1,438 | 🌐 PHP | 📅 2026-09-18 ecosystem.
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,426 | 🐛 1,434 | 🌐 PHP | 📅 2026-09-21 ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,697 | 🐛 92 | 📅 2026-07-13
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,701 | 🐛 92 | 📅 2026-07-13
 
 ## Contents
 
@@ -189,4 +189,4 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
