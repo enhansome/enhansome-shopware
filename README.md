@@ -2,9 +2,9 @@
 
 # Awesome Shopware with stars
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,430 | 🐛 1,403 | 🌐 PHP | 📅 2026-09-23 ecosystem.
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,430 | 🐛 1,415 | 🌐 PHP | 📅 2026-09-24 ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,705 | 🐛 92 | 📅 2026-07-13
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,706 | 🐛 92 | 📅 2026-07-13
 
 ## Contents
 
@@ -78,7 +78,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,7
 
 ## IDE / PhpStorm Plugins
 
-* [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) ⭐ 929 | 🐛 380 | 🌐 Java | 📅 2026-09-17 - PhpStorm Symfony Plugin.
+* [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) ⭐ 929 | 🐛 381 | 🌐 Java | 📅 2026-09-17 - PhpStorm Symfony Plugin.
 * [PHP Annotations](https://github.com/Haehnchen/idea-php-annotation-plugin) ⭐ 257 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-12 - PhpStorm Annotations plugin.
 * [PHP Toolbox](https://github.com/Haehnchen/idea-php-toolbox) ⭐ 162 | 🐛 56 | 🌐 Java | 📅 2026-07-18 - PHP Toolbox includes some Shopware configurations.
 * [Shopware 6 Toolbox](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ⭐ 65 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-21 - PhpStorm Shopware 6 plugin.
@@ -189,4 +189,4 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,7
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
