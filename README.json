@@ -440,7 +440,7 @@
             "open_issues": 7,
             "owner": "bcremer",
             "repo": "shopware-with-nginx",
-            "stars": 94,
+            "stars": 93,
             "topics": [
               "nginx",
               "shopware"
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T05:08:48.436Z",
+    "last_updated": "2026-09-27T05:26:30.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",

@@ -2,9 +2,9 @@
 
 # Awesome Shopware with stars
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,432 | 🐛 1,485 | 🌐 PHP | 📅 2026-09-25 ecosystem.
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,432 | 🐛 1,489 | 🌐 PHP | 📅 2026-09-26 ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,712 | 🐛 93 | 📅 2026-07-13
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,711 | 🐛 93 | 📅 2026-07-13
 
 ## Contents
 
@@ -50,7 +50,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,7
 
 ## Configuration
 
-* [Nginx](https://github.com/bcremer/shopware-with-nginx) ⭐ 94 | 🐛 7 | 📅 2019-02-19 - Nginx configuration for Shopware.
+* [Nginx](https://github.com/bcremer/shopware-with-nginx) ⭐ 93 | 🐛 7 | 📅 2019-02-19 - Nginx configuration for Shopware.
 * [Caddy](https://github.com/janbuecker/shopware-with-caddy) ⭐ 6 | 🐛 0 | 📅 2017-05-27 - Caddy configuration for Shopware.
 
 ## Connectors
@@ -189,4 +189,4 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,7
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
