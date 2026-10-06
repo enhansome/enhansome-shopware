@@ -1002,7 +1002,7 @@
             "id": 408522984,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-10-01T17:35:46Z",
+            "last_commit": "2026-10-05T15:01:26Z",
             "open_issues": 1,
             "owner": "shopware",
             "repo": "shopware6-phpstorm-plugin",
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T05:53:04.724Z",
+    "last_updated": "2026-10-06T06:31:52.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
