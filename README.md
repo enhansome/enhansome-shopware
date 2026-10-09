@@ -2,9 +2,9 @@
 
 # Awesome Shopware with stars
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,443 | 🐛 1,498 | 🌐 PHP | 📅 2026-10-08 ecosystem.
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ⭐ 3,445 | 🐛 1,489 | 🌐 PHP | 📅 2026-10-09 ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,731 | 🐛 94 | 📅 2026-09-27
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,735 | 🐛 94 | 📅 2026-09-27
 
 ## Contents
 
@@ -140,7 +140,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,7
 
 ## Payment Plugins
 
-* [Mollie](https://github.com/mollie/Shopware) ⭐ 18 | 🐛 16 | 🌐 PHP | 📅 2026-08-26 - Mollie integration.
+* [Mollie](https://github.com/mollie/Shopware) ⭐ 18 | 🐛 17 | 🌐 PHP | 📅 2026-08-26 - Mollie integration.
 * \[<https://github.com/steampixel/SteamPixelSepa> ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15] - Show SEPA payment fields on checkout page
 * [Payone](https://github.com/PAYONE-GmbH/shopware-5) ⭐ 9 | 🐛 3 | 🌐 PHP | 📅 2026-05-29 - Payone integration.
 * [Paypal](https://github.com/shopwareLabs/SwagPaymentPaypal) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2023-07-13 - A PayPal integration for Shopware.
@@ -189,4 +189,4 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,7
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

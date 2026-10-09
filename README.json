@@ -1883,7 +1883,7 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-08-26T08:58:26Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "mollie",
             "repo": "Shopware",
             "stars": 18,
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T06:17:53.552Z",
+    "last_updated": "2026-10-09T06:20:01.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
