@@ -908,7 +908,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-11-02T17:38:11Z",
-            "open_issues": 384,
+            "open_issues": 385,
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
             "stars": 929,
@@ -1306,7 +1306,7 @@
             "open_issues": 10,
             "owner": "FriendsOfShopware",
             "repo": "FroshWebP",
-            "stars": 35,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T06:59:44.593Z",
+    "last_updated": "2026-11-06T06:59:20.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
