@@ -911,7 +911,7 @@
             "open_issues": 385,
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
-            "stars": 929,
+            "stars": 930,
             "topics": [
               "annotation",
               "autocomplete",
@@ -1002,11 +1002,11 @@
             "id": 408522984,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-02T14:42:56Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-09T23:05:00Z",
+            "open_issues": 1,
             "owner": "shopware",
             "repo": "shopware6-phpstorm-plugin",
-            "stars": 65,
+            "stars": 64,
             "topics": [
               "hacktoberfest",
               "intellij-plugin",
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:51:24.989Z",
+    "last_updated": "2026-11-10T07:29:30.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
