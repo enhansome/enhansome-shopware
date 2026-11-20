@@ -908,7 +908,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-11-15T09:56:54Z",
-            "open_issues": 358,
+            "open_issues": 381,
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
             "stars": 930,
@@ -943,10 +943,10 @@
             "language": "Kotlin",
             "license": "MIT",
             "last_commit": "2026-08-12T16:37:07Z",
-            "open_issues": 22,
+            "open_issues": 24,
             "owner": "Haehnchen",
             "repo": "idea-php-annotation-plugin",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "annotation",
               "doctrine",
@@ -973,10 +973,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-07-18T08:21:03Z",
-            "open_issues": 42,
+            "open_issues": 56,
             "owner": "Haehnchen",
             "repo": "idea-php-toolbox",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "annotation",
               "intellij",
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:38:45.161Z",
+    "last_updated": "2026-11-20T07:29:38.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
