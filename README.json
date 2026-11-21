@@ -1171,7 +1171,7 @@
             "open_issues": 0,
             "owner": "rofthedeep",
             "repo": "SubscriberTest",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:29:38.644Z",
+    "last_updated": "2026-11-21T07:24:31.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
