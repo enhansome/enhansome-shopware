@@ -389,7 +389,7 @@
             "open_issues": 8,
             "owner": "shopware5",
             "repo": "sw-cli-tools",
-            "stars": 83,
+            "stars": 82,
             "topics": [
               "shopware",
               "shopware-cli"
@@ -907,8 +907,8 @@
             "id": 9279386,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-15T09:56:54Z",
-            "open_issues": 382,
+            "last_commit": "2026-11-24T16:39:09Z",
+            "open_issues": 381,
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
             "stars": 930,
@@ -1069,7 +1069,7 @@
             "open_issues": 4,
             "owner": "1drop",
             "repo": "shopware-sentry",
-            "stars": 19,
+            "stars": 18,
             "topics": [
               "sentry",
               "shopware",
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:05:14.517Z",
+    "last_updated": "2026-11-25T08:50:55.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
