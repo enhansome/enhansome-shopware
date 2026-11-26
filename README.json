@@ -907,7 +907,7 @@
             "id": 9279386,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-24T16:39:09Z",
+            "last_commit": "2026-11-25T17:19:53Z",
             "open_issues": 381,
             "owner": "Haehnchen",
             "repo": "idea-php-symfony2-plugin",
@@ -1171,7 +1171,7 @@
             "open_issues": 0,
             "owner": "rofthedeep",
             "repo": "SubscriberTest",
-            "stars": 1,
+            "stars": 0,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:24.759Z"
@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T08:50:55.702Z",
+    "last_updated": "2026-11-26T08:36:18.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
