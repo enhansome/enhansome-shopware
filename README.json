@@ -2596,7 +2596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T08:47:29.673Z",
+    "last_updated": "2026-11-28T08:03:20.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Shopware - Open Source eCommerce built with PHP",
@@ -2608,7 +2608,7 @@
       "open_issues": 2,
       "owner": "shyim",
       "repo": "awesome-shopware",
-      "stars": 140,
+      "stars": 139,
       "topics": [
         "awesome",
         "awesome-list",
